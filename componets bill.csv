@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1," PIR Sensor"
+"TILT1",1," Tilt Sensor"
+"PIEZO1",1," Piezo"
